@@ -1,0 +1,25 @@
+Answers :-
+git pull => If we want contant from git cloud to the local repository, git pull command is used.
+
+git push => If we want to upload contant from local repository to git cloud, we use git push command.
+
+git log => If we want see all the commits we made we use git log command.
+
+git status => If we want to see the changes which we made in git repository we use git status. It shows files tracked or not. In other word it shows file is in staged area or in unstaged area. 
+
+git commit => this command is use to add check points or flags when we staged a file.
+              Ex :- git commit -m "regaring msg."
+
+git init => It is used for creating and initializing empity git repository.
+
+git clone => If we want to copy whole file from the git cloud to local repository we use git clone.
+              Ex :- git clone <URL of cloud repo.> 
+
+git checkout => If we want to jump from one commit to another we use git checkout. In this we must have initial 4-5 characters of that committed file which we want to be checkout.
+              Ex :- git checkout <intial 4-5 characters of comitted file>
+
+mkdir => If we want to create a directiory/folder in local drives we use mkdir command.
+              Ex :- mkdir <directory name>
+
+ls -a => If we want to see all the files and directories/folders even hidden folders we use ls -a commands.
+                 
